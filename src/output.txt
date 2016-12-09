@@ -1,0 +1,5 @@
+(AB)C
+ABC
+C(BA)
+CBA
+ABC
